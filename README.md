@@ -7,8 +7,9 @@ This Python script generates a QR code that links to your GitHub profile.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [License](#license)
 - [Screenshot](#screenshot)
+- [License](#license)
+
 
 ## Installation
 
